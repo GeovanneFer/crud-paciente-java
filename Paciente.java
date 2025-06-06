@@ -33,7 +33,7 @@ public class Paciente {
     public String getNomeCompleto() { return nomeCompleto; }
     public void setNomeCompleto(String nome) { this.nomeCompleto = nome; }
     public static boolean validarCPF(String cpf) {
-        return cpf != null && cpf.matches("\d{11}");
+        return cpf != null && cpf.matches("\\d{11}");
     }
 
     public String toCSV() {

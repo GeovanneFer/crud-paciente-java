@@ -1,0 +1,2 @@
+1;João Silva;12345678901;1980-05-12;Masculino;31999999999;joao@email.com;Rua A, 123;Unimed;Hipertensão
+2;Maria Oliveira;98765432100;1992-11-30;Feminino;31988888888;maria@email.com;Av. B, 456;Particular;Alergia a dipirona
