@@ -16,3 +16,4 @@
 - PacienteCRUD.java       → Código-fonte do menu e operações CRUD
 - Menu.java               → Classe principal com o método main()
 - pacientes.txt           → Arquivo com dois exemplos de pacientes
+- Diagrama Paciente
