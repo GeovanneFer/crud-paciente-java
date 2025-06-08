@@ -34,6 +34,14 @@ EXPLICAÇÃO ENTIDADE ESCOLHIDA
  4. Execução e Entregáveis- Projeto funcional em arquivo .jar- Código-fonte .java separado por responsabilidades- Arquivo pacientes.txt com exemplos reais
 Projeto Final - CRUD de Paciente- README com instruções de uso- Diagrama UML em draw.io- Repositório GitHub recomendado para versionamento e entrega
 
+Dupla:
+
+Geovanne Ferreira dos Santos
+RA: 124221178
+
+Alexandre
+RA: 125111381491
+
  5. Conclusão
  O projeto foi desenvolvido com base em boas práticas de orientação a objetos, validações de dados e
  persistência. A escolha do paciente como entidade se mostrou eficaz para aplicar todos os conceitos
